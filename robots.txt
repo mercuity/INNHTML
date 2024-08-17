@@ -1,1 +1,1 @@
-goidaCTF{flag}
+goidaCTF{R060T5_G01}
